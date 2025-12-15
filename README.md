@@ -10,7 +10,7 @@ When I'm not coding, I'm working as a Manager on Duty at Equinox and managing IT
 
 ## What I'm Working On
 
-- **MCP Kali Server** - A Model Context Protocol server that wraps common pentesting tools (Nmap, Gobuster, SQLmap, etc.) into an API that AI assistants can use. Started as a fork and expanded it significantly.
+- **MCP-Kali-Server (Open Source Contribution)** - Contributed to [TriV3's pentesting framework](https://github.com/TriV3/MCP-Kali-Server) by adding 12+ recon tools (Subfinder, Nuclei, Httpx, Arjun, etc.), SSH session management with file transfer capabilities, and reverse shell support. [PR #5 merged](https://github.com/TriV3/MCP-Kali-Server/pull/5)
 - **Burp Suite Automation API** - Python extension that exposes Burp Suite functionality through REST endpoints for automated security testing.
 - **Security research** - Working through HackTheBox labs and participating in bug bounty programs.
 
@@ -32,11 +32,10 @@ When I'm not coding, I'm working as a Manager on Duty at Equinox and managing IT
 
 ## Links
 
-- Portfolio: [hamzehemriesh.netlify.app](https://hamzehemriesh.netlify.app)
+- Portfolio: [hamzehemreish.netlify.app](https://hamzehemreish.netlify.app)
 - LinkedIn: [linkedin.com/in/hamzeh-emreish](https://linkedin.com/in/hamzeh-emreish)
-- Email: hamzehemreish37@gmail.com
+- Email: <hamzehemreish37@gmail.com>
 
 ---
 
 Looking for security internships and entry-level penetration testing roles. Open to connecting with other security researchers and developers.
-
