@@ -39,3 +39,4 @@ When I'm not coding, I'm working as a Manager on Duty at Equinox and managing IT
 ---
 
 Looking for security internships and entry-level penetration testing roles. Open to connecting with other security researchers and developers.
+
