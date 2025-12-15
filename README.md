@@ -32,7 +32,7 @@ When I'm not coding, I'm working as a Manager on Duty at Equinox and managing IT
 
 ## Links
 
-- Portfolio: [hamzehemreish.netlify.app](https://hamzehemreish.netlify.app)
+- Portfolio: [hamzehemriesh.netlify.app](https://hamzehemriesh.netlify.app)
 - LinkedIn: [linkedin.com/in/hamzeh-emreish](https://linkedin.com/in/hamzeh-emreish)
 - Email: <hamzehemreish37@gmail.com>
 
